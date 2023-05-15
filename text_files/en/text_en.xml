@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-16"?>
+
+<root>
+
+    <config>
+
+        <tc_title>Gaming Driver</tc_title>
+
+        <tc_mutex></tc_mutex>
+
+        <tc_config>Configuration</tc_config>
+
+        <tc_exit>Exit</tc_exit>
+
+        <tc_version>Driver version:</tc_version>
+
+        <tc_web></tc_web>
+
+        <tc_ok>OK</tc_ok>
+
+        <tc_restore>Restore factory settings</tc_restore>
+
+        <tc_cancel>Cancel</tc_cancel>
+
+        <tc_apply>Application</tc_apply>
+
+        <tc_protitle>Profile</tc_protitle>
+
+        <tc_proname>Configuration</tc_proname>
+
+        <tc_tips2>Illegal characters</tc_tips2>
+
+
+        <tc_power1>Battery indicator</tc_power1>
+
+        <tc_power2>Adequate</tc_power2>
+
+        <tc_power3>Insufficient</tc_power3>
+
+        <tc_power4>Low</tc_power4>
+
+        <tc_power5>The mouse is offline, please move the mouse or mouse boot</tc_power5>
+
+        <tc_power6>Power saving mode</tc_power6>
+
+        <tc_power7>Office mode</tc_power7>
+
+        <tc_power8>Game mode</tc_power8>
+
+        <tc_power9>Gaming mode</tc_power9>
+
+
+        <tc_macro>Macro</tc_macro>
+
+        <tc_macro_stop>Stop recording the macro</tc_macro_stop>
+
+        <tc_macro_start>Start recording a macro</tc_macro_start>
+
+        <tc_macro_list>Macro list</tc_macro_list>
+
+        <tc_macro_key_list>Key list</tc_macro_key_list>
+
+        <tc_macro_auto>Automatic insertion delay</tc_macro_auto>
+
+        <tc_macro_loop>Insert event</tc_macro_loop>
+
+        <tc_macro_loop1>Specify the number of cycles</tc_macro_loop1>
+
+        <tc_macro_loop2>Loop until the button is released</tc_macro_loop2>
+
+        <tc_macro_loop3>Loop until any key is pressed</tc_macro_loop3>
+
+        <tc_macro_msg1>Please select a macro</tc_macro_msg1>
+
+        <tc_macro_msg2>Please select a macro directory</tc_macro_msg2>
+
+        <tc_macro_msg3>Import macros</tc_macro_msg3>
+
+        <tc_macro_msg4>Export the macro</tc_macro_msg4>
+
+        <tc_macro_msg5>New</tc_macro_msg5>
+
+        <tc_macro_msg6>New macro directory</tc_macro_msg6>
+
+        <tc_macro_msg7>Modified</tc_macro_msg7>
+
+        <tc_macro_msg8>The directory already has a namesake macro</tc_macro_msg8>
+
+        <tc_macro_msg9>Right-click on the macro list entry edit</tc_macro_msg9>
+
+        <tc_macro_msg10>Delete</tc_macro_msg10>
+
+        <tc_macro_msg11>Please enter the macro name:</tc_macro_msg11>
+
+        <tc_macro_msg12>Please enter a delay value:</tc_macro_msg12>
+
+        <tc_macro_msg13>Please input the directory name:</tc_macro_msg13>
+
+        <tc_macro_msg14>Button is pressed</tc_macro_msg14>
+
+        <tc_macro_msg15>Key bounce</tc_macro_msg15>
+
+        <tc_macro_msg16>Delay</tc_macro_msg16>
+
+        <tc_macro_msg17>Please stop macro recording</tc_macro_msg17>
+
+        <tc_macro_msg18>The entry is in use, cannot remove</tc_macro_msg18>
+
+        <tc_macro_msg19>Save</tc_macro_msg19>
+
+        <tc_macro_msg20>Rename</tc_macro_msg20>
+
+        <tc_macro_msg21>Bulk import</tc_macro_msg21>
+
+        <tc_macro_msg22>Batch export</tc_macro_msg22>
+
+        <tc_macro_msg23>Wheel events</tc_macro_msg23>
+
+        <tc_macro_msg24>Move the cursor</tc_macro_msg24>
+
+        <tc_macro_msg25>Left shift</tc_macro_msg25>
+
+        <tc_macro_msg26>Right shift</tc_macro_msg26>
+
+        <tc_macro_msg27>On the move</tc_macro_msg27>
+
+        <tc_macro_msg28>Move down</tc_macro_msg28>
+
+        <tc_macro_msg29>Move to the left corner of the screen</tc_macro_msg29>
+
+        <tc_macro_msg30>Pixel</tc_macro_msg30>
+
+        <tc_macro_msg31>Grid</tc_macro_msg31>
+
+        <tc_macro_msg32>Export the macro - Encryption</tc_macro_msg32>
+
+        <tc_macro_msg33>Batch export - Encryption</tc_macro_msg33>
+
+        <tc_macro_msg34>The macro is encrypted macros cannot be edited</tc_macro_msg34>
+
+        <tc_macro_msg35>Whether to replace it?</tc_macro_msg35>
+
+        <tc_macro_msg36>The macro buffer is full</tc_macro_msg36>
+
+        <tc_click>Left button</tc_click>
+
+        <tc_menu>Right -</tc_menu>
+
+        <tc_middle>In key</tc_middle>
+
+        <tc_forward>Forward</tc_forward>
+
+        <tc_back>Back</tc_back>
+
+        <tc_scrollup>Up the roll</tc_scrollup>
+
+        <tc_scrolldown>Scroll down</tc_scrolldown>
+
+        <tc_dclick>Left button double-click</tc_dclick>
+
+        <tc_mac_def>Macro definition</tc_mac_def>
+
+        <tc_key_off>Disable button</tc_key_off>
+
+        <tc_combokey>Key combination</tc_combokey>
+
+        <tc_media>Multimedia features</tc_media>
+
+        <tc_snipe>DPI Lock</tc_snipe>
+
+        <tc_reportsw>The rate of return switch</tc_reportsw>
+
+        <tc_three>Three-shot.</tc_three>
+
+        <tc_rgb>RGBOpen/Close</tc_rgb>
+
+        <tc_rgbsw>Lighting switch</tc_rgbsw>
+
+        <tc_stroke>Keyboard</tc_stroke>
+
+        <tc_mdsw>Mode switching</tc_mdsw>
+
+        <tc_customkey></tc_customkey>
+
+        <tc_titlt1>L-Tilt Wheel</tc_titlt1>
+
+        <tc_titlt2>R-Tilt Wheel</tc_titlt2>
+
+        <tc_keysnipe>A key transient spy</tc_keysnipe>
+
+        <tc_keysnipe2>There can be only one key is set to a key transient spy function</tc_keysnipe2>
+
+
+        <tc_dpi>DPI</tc_dpi>
+
+        <tc_dpiadd>DPI+</tc_dpiadd>
+
+        <tc_dpisub>DPI-</tc_dpisub>
+
+        <tc_dpiloop>DPILoop</tc_dpiloop>
+
+
+        <tc_fire>The fire button</tc_fire>
+
+        <tc_fire1>Fire number ( 0-255 )</tc_fire1>
+
+        <tc_fire2>Fire interval ( 5-255 )</tc_fire2>
+
+        <tc_fire3>Description: the interval the smaller the value, the fire the faster firing times
+            for 0 The fire button is pressed without releasing will continue to fire.</tc_fire3>
+
+
+        <tc_PL>Play/Pause</tc_PL>
+
+        <tc_stop>Stop</tc_stop>
+
+        <tc_pre_media>On a song</tc_pre_media>
+
+        <tc_next_media>Next song</tc_next_media>
+
+        <tc_vol_up>Volume increase</tc_vol_up>
+
+        <tc_vol_dw>Volume down</tc_vol_dw>
+
+        <tc_mute>Mute</tc_mute>
+
+        <tc_kbmedia_stop>Stop</tc_kbmedia_stop>
+
+        <tc_kbmedia_search>Search</tc_kbmedia_search>
+
+        <tc_kbmedia_mail>Mail</tc_kbmedia_mail>
+
+        <tc_kbmedia_main>Home</tc_kbmedia_main>
+
+        <tc_kbmedia_explore>Resource Manager</tc_kbmedia_explore>
+
+        <tc_kbmedia_cal>Calculator</tc_kbmedia_cal>
+
+        <tc_kbmedia_refresh>Refresh</tc_kbmedia_refresh>
+
+        <tc_kbmedia_favor>Favorites</tc_kbmedia_favor>
+
+        <tc_kbmedia_msel>Player</tc_kbmedia_msel>
+
+        <tc_sys_str1>Mouse movement speed</tc_sys_str1>
+
+        <tc_sys_str2>Enhance Pointer Precision</tc_sys_str2>
+
+        <tc_sys_str3>Scroll speed</tc_sys_str3>
+
+        <tc_sys_str4>A scrolling one page</tc_sys_str4>
+
+        <tc_sys_str5>Double-click speed</tc_sys_str5>
+
+
+        <tc_ms1>Open</tc_ms1>
+
+        <tc_ms2>DPIResolution setting</tc_ms2>
+
+        <tc_ms3>Lighting</tc_ms3>
+
+        <tc_ms4>参数</tc_ms4>
+
+        <tc_ms5>回报率</tc_ms5>
+
+        <tc_ms6>禁止鼠标休眠</tc_ms6>
+
+        <tc_ms7>模式</tc_ms7>
+
+        <tc_ms8></tc_ms8>
+
+        <tc_ms9>x-y轴独立设置</tc_ms9>
+
+        <tc_ms10>X。</tc_ms10>
+
+        <tc_ms11>YShaft</tc_ms11>
+
+        <tc_ms12>请保留至少一个键为"Left button"功能</tc_ms12>
+
+        <tc_ms13></tc_ms13>
+
+        <tc_ms14>灯效</tc_ms14>
+
+        <tc_ms15></tc_ms15>
+
+        <tc_ms16>驱动选项</tc_ms16>
+
+        <tc_ms17>左手</tc_ms17>
+
+        <tc_ms18>Right-handed</tc_ms18>
+
+        <tc_ms19>Export the key programmes</tc_ms19>
+
+        <tc_ms20>Import key programme</tc_ms20>
+
+        <tc_ms21>Please restart the program</tc_ms21>
+
+
+        <tc_kb1>Key assignment</tc_kb1>
+
+        <tc_kb2>Light settings</tc_kb2>
+
+        <tc_kb3>Keys the current functions: </tc_kb3>
+
+        <tc_kb4>默认功能</tc_kb4>
+
+        <tc_kb5>带边框线的按键表示该按键的默认功能已被更改</tc_kb5>
+
+        <tc_kb6>未选中任何一个按键功能</tc_kb6>
+
+        <tc_kb7></tc_kb7>
+
+
+        <tc_msg1>将</tc_msg1>
+
+        <tc_msg2>请输入一个单键或组合键:</tc_msg2>
+
+        <tc_msg3>请输入配置文件名：</tc_msg3>
+
+        <tc_msg4>导出当前配置</tc_msg4>
+
+        <tc_msg5>导入配置文件</tc_msg5>
+
+        <tc_msg6>确定删除？</tc_msg6>
+
+        <tc_msg7>是否需要恢复出厂设置？</tc_msg7>
+
+        <tc_msg8>至少要保留一个配置文件</tc_msg8>
+
+        <tc_msg9>当前没有可用的宏定义. </tc_msg9>
+
+        <tc_msg10>请输入一个按键</tc_msg10>
+
+        <tc_msg11>检测到多个设备，请只保留一个设备连接到电脑</tc_msg11>
+
+        <tc_msg12>请稍等，程序正在更新设定...</tc_msg12>
+
+        <tc_msg13>设备未连接</tc_msg13>
+
+        <tc_msg14>设备已连接</tc_msg14>
+
+        <tc_msg15>DPI级数</tc_msg15>
+
+        <tc_msg16>灯光模式切换</tc_msg16>
+
+        <tc_msg17>灯光颜色切换</tc_msg17>
+
+        <tc_msg18>Light speed switching</tc_msg18>
+
+        <tc_msg19>Light brightness switch</tc_msg19>
+
+        <tc_msg20>File with the same name already exists</tc_msg20>
+
+        <tc_msg21>No function</tc_msg21>
+
+        <tc_msg22></tc_msg22>
+
+        <tc_msg23>Tips</tc_msg23>
+
+        <tc_msg24>Mouse</tc_msg24>
+
+        <tc_msg25>Keyboard</tc_msg25>
+
+        <tc_msg26>Macro number has reached the maximum value</tc_msg26>
+
+        <tc_msg27>Language</tc_msg27>
+
+        <tc_msg28>Skin</tc_msg28>
+
+        <tc_msg29>Background sound effects</tc_msg29>
+
+        <tc_msg30>Play background sound effects</tc_msg30>
+
+
+        <tc_ms_led1>Mixed color streamer</tc_ms_led1>
+
+        <tc_ms_led2>Monochrome lit</tc_ms_led2>
+
+        <tc_ms_led3>Breathing</tc_ms_led3>
+
+        <tc_ms_led4>Trailing</tc_ms_led4>
+
+        <tc_ms_led5>Neon</tc_ms_led5>
+
+        <tc_ms_led6>Mixed color very bright</tc_ms_led6>
+
+        <tc_ms_led7>Flashing</tc_ms_led7>
+
+        <tc_ms_led8>Starry</tc_ms_led8>
+
+        <tc_ms_led9>Colorful wave</tc_ms_led9>
+
+        <tc_ms_led10>Close</tc_ms_led10>
+
+        <tc_ms_led11>Monochrome streamer</tc_ms_led11>
+
+        <tc_ms_led12></tc_ms_led12>
+
+        <tc_ms_led13></tc_ms_led13>
+
+        <tc_ms_led14></tc_ms_led14>
+
+        <tc_ms3_led8>One-way trailing</tc_ms3_led8>
+
+
+        <tc_ms2_led1>Lit</tc_ms2_led1>
+
+        <tc_ms2_led2>Breathing</tc_ms2_led2>
+
+        <tc_ms2_led3>Neon</tc_ms2_led3>
+
+        <tc_ms2_led4>Close</tc_ms2_led4>
+
+        <tc_ms2_led5>Standard</tc_ms2_led5>
+
+        <tc_ms2_led6>Flashing</tc_ms2_led6>
+
+        <tc_ms2_led7>DPIInstructions</tc_ms2_led7>
+
+        <tc_ms2_led8>Time</tc_ms2_led8>
+
+        <tc_ms2_led9>Number</tc_ms2_led9>
+
+        <tc_ms2_led10>Colorful breathing</tc_ms2_led10>
+
+
+        <tc_ms2_led11>LOGOLamp efficiency</tc_ms2_led11>
+
+        <tc_ms2_led12>Roller lamp efficiency</tc_ms2_led12>
+
+        <tc_ms2_led13>Reaction</tc_ms2_led13>
+
+        <tc_ms2_led14>UseDPIColor</tc_ms2_led14>
+
+        <tc_ms2_led15></tc_ms2_led15>
+
+
+        <tc_kb_led1>Steady stream</tc_kb_led1>
+
+        <tc_kb_led2>Drift</tc_kb_led2>
+
+        <tc_kb_led3>Follow</tc_kb_led3>
+
+        <tc_kb_led4>Sine waves</tc_kb_led4>
+
+        <tc_kb_led5>Steady on mode</tc_kb_led5>
+
+        <tc_kb_led6>Breathing pattern</tc_kb_led6>
+
+        <tc_kb_led7>Dreamy rainbow</tc_kb_led7>
+
+        <tc_kb_led8>The verge</tc_kb_led8>
+
+        <tc_kb_led9>Rain walk</tc_kb_led9>
+
+        <tc_kb_led10>Rainbow wheel</tc_kb_led10>
+
+        <tc_kb_led11>Ripples spread</tc_kb_led11>
+
+        <tc_kb_led12>Starry</tc_kb_led12>
+
+        <tc_kb_led13>Scotty no trace</tc_kb_led13>
+
+        <tc_kb_led14>Game mode</tc_kb_led14>
+
+        <tc_kb_led15></tc_kb_led15>
+
+        <tc_kb_led16></tc_kb_led16>
+
+
+        <tc_game_mode1>FN+1 (FPS)</tc_game_mode1>
+
+        <tc_game_mode2>FN+2 (CF)</tc_game_mode2>
+
+        <tc_game_mode3>FN+3 (COD)</tc_game_mode3>
+
+        <tc_game_mode4>FN+4 (LOL)</tc_game_mode4>
+
+        <tc_game_mode5>FN+5 (QQ)</tc_game_mode5>
+
+        <tc_game_mode6>FN+6</tc_game_mode6>
+
+        <tc_game_mode7>FN+7</tc_game_mode7>
+
+        <tc_game_mode8>FN+8</tc_game_mode8>
+
+        <tc_game_mode9>FN+9</tc_game_mode9>
+
+        <tc_game_mode10>FN+10</tc_game_mode10>
+
+
+        <tc_pad_led1>Colorful happy</tc_pad_led1>
+
+        <tc_pad_led2>Steady on mode</tc_pad_led2>
+
+        <tc_pad_led3>Colorful streamer</tc_pad_led3>
+
+        <tc_pad_led4>Breathing pattern</tc_pad_led4>
+
+        <tc_pad_led5>Colorful wave</tc_pad_led5>
+
+        <tc_pad_led6>Neon mode</tc_pad_led6>
+
+        <tc_pad_led7>Cross-fade</tc_pad_led7>
+
+        <tc_pad_led8>Oblique transformation</tc_pad_led8>
+
+        <tc_pad_led9>Starry</tc_pad_led9>
+
+        <tc_pad_led10>Flashing mode</tc_pad_led10>
+
+        <tc_pad_led11>Turn off the light</tc_pad_led11>
+
+        <tc_pad_led12></tc_pad_led12>
+
+        <tc_pad_led13></tc_pad_led13>
+
+
+        <tc_brightness>Brightness</tc_brightness>
+
+        <tc_speed>Speed</tc_speed>
+
+        <tc_direct>Direction</tc_direct>
+
+
+        <tc_adv_str1>Colorful</tc_adv_str1>
+
+        <tc_adv_str2>Slow</tc_adv_str2>
+
+        <tc_adv_str3>Fast</tc_adv_str3>
+
+        <tc_adv_str4>Color</tc_adv_str4>
+
+        <tc_adv_str5>Use random color</tc_adv_str5>
+
+        <tc_adv_str6>Color configuration group</tc_adv_str6>
+
+        <tc_adv_str7>Button color</tc_adv_str7>
+
+        <tc_adv_str8>Basic color</tc_adv_str8>
+
+        <tc_adv_str9>Height adjustment (mm)</tc_adv_str9>
+
+        <tc_adv_str10>LODNumber of levels</tc_adv_str10>
+
+        <tc_adv_str11>Dark</tc_adv_str11>
+
+        <tc_adv_str12>Bright</tc_adv_str12>
+
+
+        <tc_chiji1>Battle Royale special pressure gun key</tc_chiji1>
+
+        <tc_chiji2>The rate of fire adjustment</tc_chiji2>
+
+        <tc_chiji3>Battle Royale exit pressure gun key</tc_chiji3>
+
+        <tc_chiji4>Exit pressure gun options</tc_chiji4>
+
+        <tc_chiji5>Red dot mirror pressure gun</tc_chiji5>
+
+        <tc_chiji6>Three bursts of pressure gun</tc_chiji6>
+
+        <tc_chiji7>You must specify a key as the exit pressure gun mode key</tc_chiji7>
+
+        <tc_chiji8>4X Even pressure</tc_chiji8>
+
+        <tc_chiji9>Pressure gun magnitude</tc_chiji9>
+
+        <tc_chiji10>Press again to press the gun button to exit pressure gun mode</tc_chiji10>
+
+        <tc_chiji11>Specify other button as the exit pressure gun mode key</tc_chiji11>
+
+        <tc_chiji12>Base pressure gun options</tc_chiji12>
+
+        <tc_chiji13>Ballistic list</tc_chiji13>
+
+        <tc_chiji14>Pressure gun key </tc_chiji14>
+
+        <tc_chiji15>Red dot mirror</tc_chiji15>
+
+        <tc_chiji16>Pressure gun magnitude</tc_chiji16>
+
+        <tc_chiji17>Office mode</tc_chiji17>
+
+        <tc_chiji18>Pressure gun color indication</tc_chiji18>
+
+        <tc_chiji19>Game mode</tc_chiji19>
+
+        <tc_chiji20>Pressure gun key number has reached the maximum value</tc_chiji20>
+
+
+        <tc_bullet1>Muzzle adjustment</tc_bullet1>
+
+        <tc_bullet2>Delay</tc_bullet2>
+
+        <tc_bullet3>Shooting action sequence</tc_bullet3>
+
+        <tc_bullet4>Ballistic</tc_bullet4>
+
+        <tc_bullet5>Fire</tc_bullet5>
+
+        <tc_bullet6>Duration</tc_bullet6>
+
+        <tc_bullet7>Negative=Left positive=Right shift</tc_bullet7>
+
+        <tc_bullet8>Negative=On the move a positive number=Move down</tc_bullet8>
+
+        <tc_bullet9>Ballistic list</tc_bullet9>
+
+        <tc_bullet10>Ballistic name</tc_bullet10>
+
+        <tc_bullet11>Ballistic number</tc_bullet11>
+
+        <tc_bullet12>Fire duration</tc_bullet12>
+
+        <tc_bullet13>The default delay</tc_bullet13>
+
+        <tc_bullet14>Ballistic</tc_bullet14>
+
+        <tc_bullet15>Please select a ballistic</tc_bullet15>
+
+        <tc_bullet16>Ballistic number has reached the maximum value</tc_bullet16>
+
+        <tc_bullet17>The default pressure gun values</tc_bullet17>
+
+        <tc_bullet18>Add bullets do not contain the subsequent fire button</tc_bullet18>
+
+
+        <tc_ex1>A key to the run</tc_ex1>
+
+        <tc_ex2>A key map</tc_ex2>
+
+    </config>
+
+</root>
