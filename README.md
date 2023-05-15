@@ -30,4 +30,4 @@ Thanks to the manufacturer - they moved all text data to `text.xml` file. So you
 * [english version of UI - text.xml](text_files/en/text_en.xml)
 * [russian version of UI - text.xml](text_files/ru/text_ru.xml)
 
-** Don't forget to rename file to `text.xml` and replace it inside of installation folder ** 
+**Don't forget to rename file to `text.xml` and replace it inside of installation folder** 
