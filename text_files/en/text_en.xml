@@ -134,20 +134,20 @@
 		<tc_ms1>Open</tc_ms1>
 		<tc_ms2>DPIResolution setting</tc_ms2>
 		<tc_ms3>Lighting</tc_ms3>
-		<tc_ms4>参数</tc_ms4>
-		<tc_ms5>回报率</tc_ms5>
-		<tc_ms6>禁止鼠标休眠</tc_ms6>
-		<tc_ms7>模式</tc_ms7>
+		<tc_ms4>Option</tc_ms4>
+		<tc_ms5>Answer coefficient</tc_ms5>
+		<tc_ms6>Disable sleeping mode</tc_ms6>
+		<tc_ms7>Mode</tc_ms7>
 		<tc_ms8></tc_ms8>
-		<tc_ms9>x-y轴独立设置</tc_ms9>
-		<tc_ms10>X。</tc_ms10>
-		<tc_ms11>YShaft</tc_ms11>
-		<tc_ms12>请保留至少一个键为"Left button"功能</tc_ms12>
+		<tc_ms9>XY axis setup</tc_ms9>
+		<tc_ms10>X axis</tc_ms10>
+		<tc_ms11>Y axis</tc_ms11>
+		<tc_ms12>You should set at least one function for "Left button"</tc_ms12>
 		<tc_ms13></tc_ms13>
-		<tc_ms14>灯效</tc_ms14>
+		<tc_ms14>Light effect</tc_ms14>
 		<tc_ms15></tc_ms15>
-		<tc_ms16>驱动选项</tc_ms16>
-		<tc_ms17>左手</tc_ms17>
+		<tc_ms16>Driver settings</tc_ms16>
+		<tc_ms17>Left-handed</tc_ms17>
 		<tc_ms18>Right-handed</tc_ms18>
 		<tc_ms19>Export the key programmes</tc_ms19>
 		<tc_ms20>Import key programme</tc_ms20>
@@ -156,28 +156,28 @@
 		<tc_kb1>Key assignment</tc_kb1>
 		<tc_kb2>Light settings</tc_kb2>
 		<tc_kb3>Keys the current functions: </tc_kb3>
-		<tc_kb4>默认功能</tc_kb4>
-		<tc_kb5>带边框线的按键表示该按键的默认功能已被更改</tc_kb5>
-		<tc_kb6>未选中任何一个按键功能</tc_kb6>
+		<tc_kb4>Function by default</tc_kb4>
+		<tc_kb5>Function by default was changed</tc_kb5>
+		<tc_kb6>Function unset</tc_kb6>
 		<tc_kb7></tc_kb7>
 
-		<tc_msg1>将</tc_msg1>
-		<tc_msg2>请输入一个单键或组合键:</tc_msg2>
-		<tc_msg3>请输入配置文件名：</tc_msg3>
-		<tc_msg4>导出当前配置</tc_msg4>
-		<tc_msg5>导入配置文件</tc_msg5>
-		<tc_msg6>确定删除？</tc_msg6>
-		<tc_msg7>是否需要恢复出厂设置？</tc_msg7>
-		<tc_msg8>至少要保留一个配置文件</tc_msg8>
-		<tc_msg9>当前没有可用的宏定义. </tc_msg9>
-		<tc_msg10>请输入一个按键</tc_msg10>
-		<tc_msg11>检测到多个设备，请只保留一个设备连接到电脑</tc_msg11>
-		<tc_msg12>请稍等，程序正在更新设定...</tc_msg12>
-		<tc_msg13>设备未连接</tc_msg13>
-		<tc_msg14>设备已连接</tc_msg14>
-		<tc_msg15>DPI级数</tc_msg15>
-		<tc_msg16>灯光模式切换</tc_msg16>
-		<tc_msg17>灯光颜色切换</tc_msg17>
+		<tc_msg1>Mouse pad</tc_msg1>
+		<tc_msg2>Type one key or combination::</tc_msg2>
+		<tc_msg3>Type configuration filename：</tc_msg3>
+		<tc_msg4>Export current config</tc_msg4>
+		<tc_msg5>Import current config</tc_msg5>
+		<tc_msg6>Are you sure to delete？</tc_msg6>
+		<tc_msg7>Are you sure to reset factory settings？</tc_msg7>
+		<tc_msg8>Save at least one config file</tc_msg8>
+		<tc_msg9>No macros set</tc_msg9>
+		<tc_msg10>Please, press the button</tc_msg10>
+		<tc_msg11>Found more than one device. Please connect only one device per time.</tc_msg11>
+		<tc_msg12>Please wait, settings are updating...</tc_msg12>
+		<tc_msg13>Device disconnected</tc_msg13>
+		<tc_msg14>Device connected</tc_msg14>
+		<tc_msg15>DPI set</tc_msg15>
+		<tc_msg16>Change light mode</tc_msg16>
+		<tc_msg17>Change light color</tc_msg17>
 		<tc_msg18>Light speed switching</tc_msg18>
 		<tc_msg19>Light brightness switch</tc_msg19>
 		<tc_msg20>File with the same name already exists</tc_msg20>
