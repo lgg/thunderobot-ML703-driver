@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-16"?>
+<root>
+	<config>
+		<tc_title>Gaming Driver</tc_title>
+		<tc_mutex></tc_mutex>
+		<tc_config>Configuração</tc_config>
+		<tc_exit>Sair</tc_exit>
+		<tc_version>Versão do Driver:</tc_version>
+		<tc_web></tc_web>
+		<tc_ok>OK</tc_ok>
+		<tc_restore>Padrão de Fabrica</tc_restore>
+		<tc_cancel>Cancelar</tc_cancel>
+		<tc_apply>Aplicação</tc_apply>
+		<tc_protitle>Perfil</tc_protitle>
+		<tc_proname>Configuração</tc_proname>
+		<tc_tips2>Caracteres Ilegais</tc_tips2>
+
+		<tc_power1>Indicador de Bateria</tc_power1>
+		<tc_power2>Adequado</tc_power2>
+		<tc_power3>Insuficiente</tc_power3>
+		<tc_power4>Baixo</tc_power4>
+		<tc_power5>O mouse está offline, mova o mouse ou inicie o mouse</tc_power5>
+		<tc_power6>Modo de economia de energia</tc_power6>
+		<tc_power7>Modo de escritório</tc_power7>
+		<tc_power8>Modo jogo</tc_power8>
+		<tc_power9>Modo de Jogo</tc_power9>
+
+		<tc_macro>Macro</tc_macro>
+		<tc_macro_stop>Parar de gravar a macro</tc_macro_stop>
+		<tc_macro_start>Iniciar a gravação de uma macro</tc_macro_start>
+		<tc_macro_list>Listra de Macro</tc_macro_list>
+		<tc_macro_key_list>Lista de Teclas</tc_macro_key_list>
+		<tc_macro_auto>Atraso de inserção automática</tc_macro_auto>
+		<tc_macro_loop>Evento de inserção</tc_macro_loop>
+		<tc_macro_loop1>Especificar o número de ciclos</tc_macro_loop1>
+		<tc_macro_loop2>Repetir até o botão ser solto</tc_macro_loop2>
+		<tc_macro_loop3>Repetir até que qualquer tecla seja pressionada</tc_macro_loop3>
+		<tc_macro_msg1>Por favor, selecione uma macro</tc_macro_msg1>
+		<tc_macro_msg2>Por favor, selecione um diretório de macros</tc_macro_msg2>
+		<tc_macro_msg3>Importar macros</tc_macro_msg3>
+		<tc_macro_msg4>Exportar a macro</tc_macro_msg4>
+		<tc_macro_msg5>Nova</tc_macro_msg5>
+		<tc_macro_msg6>Nova pasta de macros</tc_macro_msg6>
+		<tc_macro_msg7>Modificado</tc_macro_msg7>
+		<tc_macro_msg8>O diretório já possui uma macro com o mesmo nome</tc_macro_msg8>
+		<tc_macro_msg9>Clique com o botão direito na entrada da lista de macros para editar</tc_macro_msg9>
+		<tc_macro_msg10>Excluir</tc_macro_msg10>
+		<tc_macro_msg11>Por favor, insira o nome da macro:</tc_macro_msg11>
+		<tc_macro_msg12>Por favor, insira um valor de atraso:</tc_macro_msg12>
+		<tc_macro_msg13>Por favor, insira o nome do diretório:</tc_macro_msg13>
+		<tc_macro_msg14>O botão foi pressionado</tc_macro_msg14>
+		<tc_macro_msg15>Rebote de tecla</tc_macro_msg15>
+		<tc_macro_msg16>Atraso</tc_macro_msg16>
+		<tc_macro_msg17>Por favor, pare de gravar a macro</tc_macro_msg17>
+		<tc_macro_msg18>A entrada está em uso, não pode ser removida</tc_macro_msg18>
+		<tc_macro_msg19>Salvar</tc_macro_msg19>
+		<tc_macro_msg20>Renomear</tc_macro_msg20>
+		<tc_macro_msg21>Importação em massa</tc_macro_msg21>
+		<tc_macro_msg22>Exportação em massa</tc_macro_msg22>
+		<tc_macro_msg23>Eventos de roda</tc_macro_msg23>
+		<tc_macro_msg24>Mover o cursor</tc_macro_msg24>
+		<tc_macro_msg25>Shift esquerdo</tc_macro_msg25>
+		<tc_macro_msg26>Shift direito</tc_macro_msg26>
+		<tc_macro_msg27>Em movimento</tc_macro_msg27>
+		<tc_macro_msg28>Mover para baixo</tc_macro_msg28>
+		<tc_macro_msg29>Mover para o canto esquerdo da tela</tc_macro_msg29>
+		<tc_macro_msg30>Píxel</tc_macro_msg30>
+		<tc_macro_msg31>Grade</tc_macro_msg31>
+		<tc_macro_msg32>Exportar a macro - Criptografia</tc_macro_msg32>
+		<tc_macro_msg33>Exportação em massa - Criptografia</tc_macro_msg33>
+		<tc_macro_msg34>A macro está criptografada, macros não podem ser editadas</tc_macro_msg34>
+		<tc_macro_msg35>Deseja substituí-la?</tc_macro_msg35>
+		<tc_macro_msg36>O buffer de macro está cheio</tc_macro_msg36>
+		
+	<tc_click>Botão esquerdo</tc_click>
+	<tc_menu>Direito -</tc_menu>
+	<tc_middle>No teclado</tc_middle>
+	<tc_forward>Avançar</tc_forward>
+	<tc_back>Voltar</tc_back>
+	<tc_scrollup>Subir a rolagem</tc_scrollup>
+	<tc_scrolldown>Descer a rolagem</tc_scrolldown>
+	<tc_dclick>Clique duplo no botão esquerdo</tc_dclick>
+	<tc_mac_def>Definição de macro</tc_mac_def>
+	<tc_key_off>Desativar botão</tc_key_off>
+	<tc_combokey>Combinação de teclas</tc_combokey>
+	<tc_media>Recursos multimídia</tc_media>
+	<tc_snipe>Bloqueio de DPI</tc_snipe>
+	<tc_reportsw>Interruptor de taxa de retorno</tc_reportsw>
+	<tc_three>Tiro triplo.</tc_three>
+	<tc_rgb>RGB Abrir/Fechar</tc_rgb>
+	<tc_rgbsw>Interruptor de iluminação</tc_rgbsw>
+	<tc_stroke>Teclado</tc_stroke>
+	<tc_mdsw>Interruptor de modo</tc_mdsw>
+	<tc_customkey></tc_customkey>
+	<tc_titlt1>Roda L-inclinar</tc_titlt1>
+	<tc_titlt2>Roda R-inclinar</tc_titlt2>
+	<tc_keysnipe>Um espião de tecla transitória</tc_keysnipe>
+	<tc_keysnipe2>Só pode ser definida uma tecla como função de espião de tecla transitória</tc_keysnipe2>
+
+		
+		<tc_dpi>DPI</tc_dpi>
+		<tc_dpiadd>DPI+</tc_dpiadd>
+		<tc_dpisub>DPI-</tc_dpisub>
+		<tc_dpiloop>DPILoop</tc_dpiloop>
+		
+		<tc_fire>O botão de fogo</tc_fire>
+		<tc_fire1>Número de disparos (0-255)</tc_fire1>
+		<tc_fire2>Intervalo de disparo (5-255)</tc_fire2>
+		<tc_fire3>Descrição: quanto menor o intervalo, mais rápido os disparos. Quando definido como 0, o botão de fogo pressionado continuará disparando sem ser liberado.</tc_fire3>
+		
+		<tc_PL>Reproduzir/Pausar</tc_PL>
+		<tc_stop>Parar</tc_stop>
+		<tc_pre_media>Música anterior</tc_pre_media>
+		<tc_next_media>Próxima música</tc_next_media>
+		<tc_vol_up>Aumentar volume</tc_vol_up>
+		<tc_vol_dw>Diminuir volume</tc_vol_dw>
+		<tc_mute>Silenciar</tc_mute>
+
+		<tc_kbmedia_stop>Parar</tc_kbmedia_stop>
+		<tc_kbmedia_search>Pesquisar</tc_kbmedia_search>
+		<tc_kbmedia_mail>E-mail</tc_kbmedia_mail>
+		<tc_kbmedia_main>Início</tc_kbmedia_main>
+		<tc_kbmedia_explore>Gerenciador de Recursos</tc_kbmedia_explore>
+		<tc_kbmedia_cal>Calculadora</tc_kbmedia_cal>
+		<tc_kbmedia_refresh>Atualizar</tc_kbmedia_refresh>
+		<tc_kbmedia_favor>Favoritos</tc_kbmedia_favor>
+		<tc_kbmedia_msel>Reprodutor</tc_kbmedia_msel>
+
+		<tc_sys_str1>Velocidade de movimento do mouse</tc_sys_str1>
+		<tc_sys_str2>Aprimorar Precisão do Ponteiro</tc_sys_str2>
+		<tc_sys_str3>Velocidade de rolagem</tc_sys_str3>
+		<tc_sys_str4>Uma página de rolagem</tc_sys_str4>
+		<tc_sys_str5>Velocidade de duplo clique</tc_sys_str5>
+
+		<tc_ms1>Abrir</tc_ms1>
+		<tc_ms2>Configuração de Resolução DPI</tc_ms2>
+		<tc_ms3>Iluminação</tc_ms3>
+		<tc_ms4>Opção</tc_ms4>
+		<tc_ms5>Coeficiente de resposta</tc_ms5>
+		<tc_ms6>Desativar modo de suspensão</tc_ms6>
+		<tc_ms7>Modo</tc_ms7>
+		<tc_ms8></tc_ms8>
+		<tc_ms9>Configuração do eixo XY</tc_ms9>
+		<tc_ms10>Eixo X</tc_ms10>
+		<tc_ms11>Eixo Y</tc_ms11>
+		<tc_ms12>Você deve definir pelo menos uma função para "Botão esquerdo"</tc_ms12>
+		<tc_ms13></tc_ms13>
+		<tc_ms14>Efeito de luz</tc_ms14>
+		<tc_ms15></tc_ms15>
+		<tc_ms16>Configurações do driver</tc_ms16>
+		<tc_ms17>Mão esquerda</tc_ms17>
+		<tc_ms18>Mão direita</tc_ms18>
+		<tc_ms19>Exportar os programas de teclas</tc_ms19>
+		<tc_ms20>Importar programa de teclas</tc_ms20>
+		<tc_ms21>Por favor, reinicie o programa</tc_ms21>
+
+		<tc_kb1>Atribuição de teclas</tc_kb1>
+		<tc_kb2>Configurações de luz</tc_kb2>
+		<tc_kb3>Funções atuais das teclas: </tc_kb3>
+		<tc_kb4>Função padrão</tc_kb4>
+		<tc_kb5>A função padrão foi alterada</tc_kb5>
+		<tc_kb6>Função não definida</tc_kb6>
+		<tc_kb7></tc_kb7>
+
+		<tc_msg1>Mouse pad</tc_msg1>
+		<tc_msg2>Digite uma tecla ou combinação:</tc_msg2>
+		<tc_msg3>Digite o nome do arquivo de configuração:</tc_msg3>
+		<tc_msg4>Exportar configuração atual</tc_msg4>
+		<tc_msg5>Importar configuração atual</tc_msg5>
+		<tc_msg6>Tem certeza de que deseja excluir?</tc_msg6>
+		<tc_msg7>Tem certeza de que deseja redefinir as configurações de fábrica?</tc_msg7>
+		<tc_msg8>Salve pelo menos um arquivo de configuração</tc_msg8>
+		<tc_msg9>Nenhuma macro definida</tc_msg9>
+		<tc_msg10>Por favor, pressione o botão</tc_msg10>
+		<tc_msg11>Mais de um dispositivo encontrado. Por favor, conecte apenas um dispositivo por vez.</tc_msg11>
+		<tc_msg12>Por favor, aguarde, as configurações estão sendo atualizadas...</tc_msg12>
+		<tc_msg13>Dispositivo desconectado</tc_msg13>
+		<tc_msg14>Dispositivo conectado</tc_msg14>
+		<tc_msg15>DPI definido</tc_msg15>
+		<tc_msg16>Alterar modo de luz</tc_msg16>
+		<tc_msg17>Alterar cor da luz</tc_msg17>
+		<tc_msg18>Alternar velocidade da luz</tc_msg18>
+		<tc_msg19>Alternar brilho da luz</tc_msg19>
+		<tc_msg20>Arquivo com o mesmo nome já existe</tc_msg20>
+		<tc_msg21>Sem função</tc_msg21>
+		<tc_msg22></tc_msg22>
+		<tc_msg23>Dicas</tc_msg23>
+		<tc_msg24>Mouse</tc_msg24>
+		<tc_msg25>Teclado</tc_msg25>
+		<tc_msg26>O número de macros atingiu o valor máximo</tc_msg26>
+		<tc_msg27>Idioma</tc_msg27>
+		<tc_msg28>Skin</tc_msg28>
+		<tc_msg29>Efeitos sonoros de fundo</tc_msg29>
+		<tc_msg30>Reproduzir efeitos sonoros de fundo</tc_msg30>
+
+		<tc_ms_led1>Fluxo de cores mistas</tc_ms_led1>
+		<tc_ms_led2>Luz monocromática</tc_ms_led2>
+		<tc_ms_led3>Respiração</tc_ms_led3>
+		<tc_ms_led4>Rastro</tc_ms_led4>
+		<tc_ms_led5>Neon</tc_ms_led5>
+		<tc_ms_led6>Cores mistas muito brilhantes</tc_ms_led6>
+		<tc_ms_led7>Piscando</tc_ms_led7>
+		<tc_ms_led8>Estrelado</tc_ms_led8>
+		<tc_ms_led9>Onda colorida</tc_ms_led9>
+		<tc_ms_led10>Fechar</tc_ms_led10>
+		<tc_ms_led11>Fluxo de cores monocromáticas</tc_ms_led11>
+		<tc_ms_led12></tc_ms_led12>
+		<tc_ms_led13></tc_ms_led13>
+		<tc_ms_led14></tc_ms_led14>
+		<tc_ms3_led8>Rastro unidirecional</tc_ms3_led8>
+
+		<tc_ms2_led1>Acesa</tc_ms2_led1>
+		<tc_ms2_led2>Respiração</tc_ms2_led2>
+		<tc_ms2_led3>Neon</tc_ms2_led3>
+		<tc_ms2_led4>Fechar</tc_ms2_led4>
+		<tc_ms2_led5>Padrão</tc_ms2_led5>
+		<tc_ms2_led6>Piscando</tc_ms2_led6>
+		<tc_ms2_led7>Instruções DPI</tc_ms2_led7>
+		<tc_ms2_led8>Tempo</tc_ms2_led8>
+		<tc_ms2_led9>Número</tc_ms2_led9>
+		<tc_ms2_led10>Respiração colorida</tc_ms2_led10>
+
+		<tc_ms2_led11>Eficiência da lâmpada do LOGO</tc_ms2_led11>
+		<tc_ms2_led12>Eficiência da lâmpada do rolo</tc_ms2_led12>
+		<tc_ms2_led13>Reação</tc_ms2_led13>
+		<tc_ms2_led14>Usar cor DPI</tc_ms2_led14>
+		<tc_ms2_led15></tc_ms2_led15>
+
+		<tc_kb_led1>Corrente constante</tc_kb_led1>
+		<tc_kb_led2>Deriva</tc_kb_led2>
+		<tc_kb_led3>Seguir</tc_kb_led3>
+		<tc_kb_led4>Ondas senoidais</tc_kb_led4>
+		<tc_kb_led5>Modo fixo</tc_kb_led5>
+		<tc_kb_led6>Padrão de respiração</tc_kb_led6>
+		<tc_kb_led7>Arco-íris sonhador</tc_kb_led7>
+		<tc_kb_led8>A borda</tc_kb_led8>
+		<tc_kb_led9>Caminhada na chuva</tc_kb_led9>
+		<tc_kb_led10>Roda do arco-íris</tc_kb_led10>
+		<tc_kb_led11>Ondas se espalham</tc_kb_led11>
+		<tc_kb_led12>Estrelado</tc_kb_led12>
+		<tc_kb_led13>Rastro ausente</tc_kb_led13>
+		<tc_kb_led14>Modo de jogo</tc_kb_led14>
+		<tc_kb_led15></tc_kb_led15>
+		<tc_kb_led16></tc_kb_led16>
+
+		<tc_game_mode1>FN+1 (FPS)</tc_game_mode1>
+		<tc_game_mode2>FN+2 (CF)</tc_game_mode2>
+		<tc_game_mode3>FN+3 (COD)</tc_game_mode3>
+		<tc_game_mode4>FN+4 (LOL)</tc_game_mode4>
+		<tc_game_mode5>FN+5 (QQ)</tc_game_mode5>
+		<tc_game_mode6>FN+6</tc_game_mode6>
+		<tc_game_mode7>FN+7</tc_game_mode7>
+		<tc_game_mode8>FN+8</tc_game_mode8>
+		<tc_game_mode9>FN+9</tc_game_mode9>
+		<tc_game_mode10>FN+10</tc_game_mode10>
+
+		<tc_pad_led1>Feliz colorido</tc_pad_led1>
+		<tc_pad_led2>Modo fixo</tc_pad_led2>
+		<tc_pad_led3>Corrente colorida</tc_pad_led3>
+		<tc_pad_led4>Padrão de respiração</tc_pad_led4>
+		<tc_pad_led5>Onda colorida</tc_pad_led5>
+		<tc_pad_led6>Modo neon</tc_pad_led6>
+		<tc_pad_led7>Crossfade</tc_pad_led7>
+		<tc_pad_led8>Transformação oblíqua</tc_pad_led8>
+		<tc_pad_led9>Estrelado</tc_pad_led9>
+		<tc_pad_led10>Modo intermitente</tc_pad_led10>
+		<tc_pad_led11>Desligar a luz</tc_pad_led11>
+		<tc_pad_led12></tc_pad_led12>
+		<tc_pad_led13></tc_pad_led13>
+
+		<tc_brightness>Brilho</tc_brightness>
+		<tc_speed>Velocidade</tc_speed>
+		<tc_direct>Direção</tc_direct>
+
+		<tc_adv_str1>Colorido</tc_adv_str1>
+		<tc_adv_str2>Lento</tc_adv_str2>
+		<tc_adv_str3>Rápido</tc_adv_str3>
+		<tc_adv_str4>Cor</tc_adv_str4>
+		<tc_adv_str5>Usar cor aleatória</tc_adv_str5>
+		<tc_adv_str6>Grupo de configuração de cores</tc_adv_str6>
+		<tc_adv_str7>Cor do botão</tc_adv_str7>
+		<tc_adv_str8>Cor básica</tc_adv_str8>
+		<tc_adv_str9>Ajuste de altura (mm)</tc_adv_str9>
+		<tc_adv_str10>Número de níveis LOD</tc_adv_str10>
+		<tc_adv_str11>Escuro</tc_adv_str11>
+		<tc_adv_str12>Claro</tc_adv_str12>
+
+		<tc_chiji1>Tecla especial de arma de pressão do Battle Royale</tc_chiji1>
+		<tc_chiji2>Ajuste da taxa de tiro</tc_chiji2>
+		<tc_chiji3>Tecla de saída de arma de pressão do Battle Royale</tc_chiji3>
+		<tc_chiji4>Opções de saída de arma de pressão</tc_chiji4>
+		<tc_chiji5>Mira ponto vermelho de arma de pressão</tc_chiji5>
+		<tc_chiji6>Três rajadas de arma de pressão</tc_chiji6>
+		<tc_chiji7>Você deve especificar uma tecla como tecla de modo de saída de arma de pressão</tc_chiji7>
+		<tc_chiji8>Mesmo pressão 4X</tc_chiji8>
+		<tc_chiji9>Magnitude da arma de pressão</tc_chiji9>
+		<tc_chiji10>Pressione novamente o botão de arma de pressão para sair do modo de arma de pressão</tc_chiji10>
+		<tc_chiji11>Especificar outro botão como tecla de modo de saída de arma de pressão</tc_chiji11>
+		<tc_chiji12>Opções de arma de pressão base</tc_chiji12>
+		<tc_chiji13>Lista balística</tc_chiji13>
+		<tc_chiji14>Tecla de arma de pressão</tc_chiji14>
+		<tc_chiji15>Mira ponto vermelho</tc_chiji15>
+		<tc_chiji16>Magnitude da arma de pressão</tc_chiji16>
+		<tc_chiji17>Modo de escritório</tc_chiji17>
+		<tc_chiji18>Indicação de cor da arma de pressão</tc_chiji18>
+		<tc_chiji19>Modo de jogo</tc_chiji19>
+		<tc_chiji20>O número de teclas de arma de pressão atingiu o valor máximo</tc_chiji20>
+	   
+		<tc_bullet1>Ajuste do focinho</tc_bullet1>
+		<tc_bullet2>Atraso</tc_bullet2>
+		<tc_bullet3>Sequência de ação de disparo</tc_bullet3>
+		<tc_bullet4>Balística</tc_bullet4>
+		<tc_bullet5>Fogo</tc_bullet5>
+		<tc_bullet6>Duração</tc_bullet6>
+		<tc_bullet7>Negativo = Deslocamento para a esquerda, positivo = Deslocamento para a direita</tc_bullet7>
+		<tc_bullet8>Negativo = Em movimento, um número positivo = Mover para baixo</tc_bullet8>
+		<tc_bullet9>Lista balística</tc_bullet9>
+		<tc_bullet10>Nome balístico</tc_bullet10>
+		<tc_bullet11>Número balístico</tc_bullet11>
+		<tc_bullet12>Duração do fogo</tc_bullet12>
+		<tc_bullet13>O atraso padrão</tc_bullet13>
+		<tc_bullet14>Balística</tc_bullet14>
+		<tc_bullet15>Por favor, selecione uma balística</tc_bullet15>
+		<tc_bullet16>O número balístico atingiu o valor máximo</tc_bullet16>
+		<tc_bullet17>Os valores padrão da arma de pressão</tc_bullet17>
+		<tc_bullet18>Adicionar balas que não contenham o botão de fogo subsequente</tc_bullet18>
+		
+		<tc_ex1>Uma tecla para executar</tc_ex1>
+		<tc_ex2>Um mapa de teclas</tc_ex2>
+	</config>
+</root>
