@@ -72,30 +72,30 @@
 		<tc_macro_msg35>Deseja substituí-la?</tc_macro_msg35>
 		<tc_macro_msg36>O buffer de macro está cheio</tc_macro_msg36>
 		
-	<tc_click>Botão esquerdo</tc_click>
-	<tc_menu>Direito -</tc_menu>
-	<tc_middle>No teclado</tc_middle>
-	<tc_forward>Avançar</tc_forward>
-	<tc_back>Voltar</tc_back>
-	<tc_scrollup>Subir a rolagem</tc_scrollup>
-	<tc_scrolldown>Descer a rolagem</tc_scrolldown>
-	<tc_dclick>Clique duplo no botão esquerdo</tc_dclick>
-	<tc_mac_def>Definição de macro</tc_mac_def>
-	<tc_key_off>Desativar botão</tc_key_off>
-	<tc_combokey>Combinação de teclas</tc_combokey>
-	<tc_media>Recursos multimídia</tc_media>
-	<tc_snipe>Bloqueio de DPI</tc_snipe>
-	<tc_reportsw>Interruptor de taxa de retorno</tc_reportsw>
-	<tc_three>Tiro triplo.</tc_three>
-	<tc_rgb>RGB Abrir/Fechar</tc_rgb>
-	<tc_rgbsw>Interruptor de iluminação</tc_rgbsw>
-	<tc_stroke>Teclado</tc_stroke>
-	<tc_mdsw>Interruptor de modo</tc_mdsw>
-	<tc_customkey></tc_customkey>
-	<tc_titlt1>Roda L-inclinar</tc_titlt1>
-	<tc_titlt2>Roda R-inclinar</tc_titlt2>
-	<tc_keysnipe>Um espião de tecla transitória</tc_keysnipe>
-	<tc_keysnipe2>Só pode ser definida uma tecla como função de espião de tecla transitória</tc_keysnipe2>
+		<tc_click>Botão esquerdo</tc_click>
+		<tc_menu>Direito -</tc_menu>
+		<tc_middle>No teclado</tc_middle>
+		<tc_forward>Avançar</tc_forward>
+		<tc_back>Voltar</tc_back>
+		<tc_scrollup>Subir a rolagem</tc_scrollup>
+		<tc_scrolldown>Descer a rolagem</tc_scrolldown>
+		<tc_dclick>Clique duplo no botão esquerdo</tc_dclick>
+		<tc_mac_def>Definição de macro</tc_mac_def>
+		<tc_key_off>Desativar botão</tc_key_off>
+		<tc_combokey>Combinação de teclas</tc_combokey>
+		<tc_media>Recursos multimídia</tc_media>
+		<tc_snipe>Bloqueio de DPI</tc_snipe>
+		<tc_reportsw>Interruptor de taxa de retorno</tc_reportsw>
+		<tc_three>Tiro triplo.</tc_three>
+		<tc_rgb>RGB Abrir/Fechar</tc_rgb>
+		<tc_rgbsw>Interruptor de iluminação</tc_rgbsw>
+		<tc_stroke>Teclado</tc_stroke>
+		<tc_mdsw>Interruptor de modo</tc_mdsw>
+		<tc_customkey></tc_customkey>
+		<tc_titlt1>Roda L-inclinar</tc_titlt1>
+		<tc_titlt2>Roda R-inclinar</tc_titlt2>
+		<tc_keysnipe>Um espião de tecla transitória</tc_keysnipe>
+		<tc_keysnipe2>Só pode ser definida uma tecla como função de espião de tecla transitória</tc_keysnipe2>
 
 		
 		<tc_dpi>DPI</tc_dpi>
